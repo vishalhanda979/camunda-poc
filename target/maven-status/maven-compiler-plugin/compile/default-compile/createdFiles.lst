@@ -1,0 +1,10 @@
+org/camunda/bpm/getstarted/loanapproval/CreateFolderStructure.class
+org/camunda/bpm/getstarted/loanapproval/WebappExampleProcessApplication.class
+org/camunda/bpm/getstarted/loanapproval/GerritConnector.class
+org/camunda/bpm/getstarted/loanapproval/CreateProject.class
+org/camunda/bpm/getstarted/loanapproval/CreateUser.class
+org/camunda/bpm/getstarted/loanapproval/GithubConnector.class
+org/camunda/bpm/getstarted/loanapproval/CreateGitignore.class
+org/camunda/bpm/getstarted/loanapproval/BitbucketConnector.class
+org/camunda/bpm/getstarted/loanapproval/Repository.class
+org/camunda/bpm/getstarted/loanapproval/CreateGroups.class
